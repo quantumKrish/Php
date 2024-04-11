@@ -1,0 +1,30 @@
+
+figcaption {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 1em;
+    background-color: rgb(255, 153, 0);
+    color: azure;
+    padding: 1em;
+    width: 41%;
+}
+
+table {
+
+    width: 44.49%;
+    border: 1px solid black;
+    padding: 1em;
+}
+
+th {
+    background-color: rgb(178, 178, 178);
+    color: rgb(0, 0, 0);
+    border: 1px solid black;
+    font-weight: bold;
+}
+
+td {
+    border: 1px solid black;
+    text-align: center;
+}

@@ -1,0 +1,66 @@
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 1.5em;
+    background-color: rgb(255, 204, 0);
+    padding: 0.5em;
+    border-radius: 10px ;
+    margin-left: 5em;
+    margin-right: 5em;
+}
+
+
+
+form, p {
+
+    padding: 01em;
+    background-color: rgb(255, 241, 183);
+    border: 2.5px solid rgb(255, 204, 0);
+
+    display: flex;
+    flex-direction: column;
+    margin-left: 5em;
+    margin-right: 5em;
+
+    }
+
+input {
+
+    padding: 0.5em;
+    border: 2px solid rgb(255, 204, 0);
+    border-radius: 5px;
+
+}
+
+#button, #submit {
+
+
+    background-color: rgb(111, 0, 162);
+    color: azure;
+    font-size: 1em;
+    padding: 0.5em;
+
+
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+#container {
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 auto; /* Center the container horizontally within the body */
+
+
+    padding: 0.5em;
+}
+
+
+

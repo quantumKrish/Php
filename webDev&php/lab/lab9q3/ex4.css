@@ -1,0 +1,52 @@
+
+body {
+
+    background-color: #600052;
+    font-family: Arial, sans-serif;
+
+    display: flex;
+    justify-content: center;
+
+
+}
+
+div  {
+
+    background-color: white;
+    padding: 2em;
+    margin-top: 2em;
+    width: 50%;
+
+}
+
+
+
+
+h1 {
+
+    font-size: 2em;
+
+}
+
+input[type="text"], input[type="password"], select {
+
+    margin-top: 1em;
+    padding: 0.5em;
+    width: 70%;
+
+}
+
+
+
+input[type="submit"] {
+
+    margin-top: 1em;
+    padding: 0.8em;
+    width: 10%;
+
+    background-color: rgb(6, 189, 6);
+    border: none;
+    border-radius: 3px;
+
+    color: aliceblue;
+}
